@@ -7,4 +7,4 @@ ZCZC W00 120 L06 Reading References/Books/Documents (
 ZCZC W00 15 L04 Set up Github Pages
 ZCZC W00 180 L21 Install VM + Debian
 ZCZC W00 15 L27 Pet and feed dog
-ZCZC W00 55 Install + set up PuTTY
+ZCZC W00 55 L21 Install + set up PuTTY
