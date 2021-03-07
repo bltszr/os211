@@ -3,8 +3,12 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 7 L03 Set up OS211
 ZCZC W00 3 L04 Find out about Github Pages
-ZCZC W00 120 L06 Reading References/Books/Documents (
+ZCZC W00 120 L06 Read ch. 1 of OSC
 ZCZC W00 15 L04 Set up Github Pages
 ZCZC W00 180 L21 Install VM + Debian
 ZCZC W00 15 L27 Pet and feed dog
 ZCZC W00 55 L21 Install + set up PuTTY
+ZCZC W01 60 L11 Write W01.md
+ZCZC W01 60 L06 Read ch. 2 of OSC
+ZCZC W01 9 L04 Add parts to the landing page of os211 and figure out how front-matter works in markdown
+ZCZC W01 60 L08 Attempt to follow osp4diss tutorial to get to Badak, to no avail
