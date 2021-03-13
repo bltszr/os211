@@ -1,13 +1,13 @@
-azricot
-basyirasabita
-bimabr
-bintangdom
-blopblipblap
 BudiArb
 calmeryan
 cobrayyxx
 Corfaitch
 cornelita
+csq307
+darren-ngoh
+ddelvo
+dewa251202
+dirtboll
 
-# In case this list needs to be updated, use
-# curl -s https://os.vlsm.org/GitHubPages/ | sed -n 's/\(<li><a href="https:\/\/github\.com\/[a-zA-Z0-9_\-]\+\/">\)\([^<>\/]*\)\(<\/a>.*\)/\2/p' | grep -B 5 -A 5 bltszr
+# in case of any changes, run this
+# list=$(curl -s https://os.vlsm.org/GitHubPages/ | sed -n 's/\(<li><a href="https:\/\/github\.com\/[a-zA-Z0-9_\-]\+\/">\)\([^<>\/]*\)\(<\/a>.*\)/\2/p' | grep -A 10 bltszr | tail -10); for i in $list; do echo $i >> friendlist.txt; done
