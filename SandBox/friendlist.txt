@@ -1,0 +1,13 @@
+azricot
+basyirasabita
+bimabr
+bintangdom
+blopblipblap
+BudiArb
+calmeryan
+cobrayyxx
+Corfaitch
+cornelita
+
+# In case this list needs to be updated, use
+# curl -s https://os.vlsm.org/GitHubPages/ | sed -n 's/\(<li><a href="https:\/\/github\.com\/[a-zA-Z0-9_\-]\+\/">\)\([^<>\/]*\)\(<\/a>.*\)/\2/p' | grep -B 5 -A 5 bltszr
