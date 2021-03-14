@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# The following code taken wholesale with permission from my good friend Dennis,
+# The following code taken with slight modifications with permission from my good friend Dennis,
 # at https://raw.githubusercontent.com/dnswd/os211/master/TXT/myscript.sh
 
 # My useful bash script
@@ -38,14 +38,15 @@ gpg --verify $SHA.asc $SHA
 # Check for untracked/uncommited files first
 # echo "Starting program at $(date)"
 echo "Checking for untracked files..."
-UNTRACKED=$( git ls-files --exclude-standard --others | wc -l)
-if [[ $UNTRACKED -ne 0 ]]; then
-	echo "Found $UNTRACKED untracked or uncommited files"
+UNTRACKED=$( git ls-files --exclude-standard --others )
+UNTRACKEDn=$( echo -e "$UNTRACKED" | wc -l )
+if [[ $UNTRACKEDn -ne 0 ]]; then
+	echo "Found $UNTRACKEDn untracked or uncommited files"
         >&2 echo "Don't forget to add them!"
-        >&4 $(git ls-files --exclude-standard --others)
+        >&2 echo -e "$UNTRACKED"
+	>&2
 else
 	echo -e "\nYour tree is clean, please commit your changes"
 fi
 
-echo "Found $(git ls-files --exclude-standard -m | wc -l) files pending for commit."
 
