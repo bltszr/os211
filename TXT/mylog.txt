@@ -27,3 +27,6 @@ ZCZC W02 40 L18 Write script for automated top 10 list template in SandBox
 ZCZC W02 1 L20 Run myscript.sh for signing
 ZCZC W02 20 L16 Rerun the script referred to in L18 a couple times until I get a random list that I liked
 ZCZC W02 10 L19 Write this log
+ZCZC W03 70 L05 GSGS about disk partitioning and mounting
+ZCZC W03 10 L21 Add second drive to debian guest
+ZCZC W03 47 L21 Partition disks for swap and /lfs mount
