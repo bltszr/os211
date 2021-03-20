@@ -26,3 +26,4 @@ This list is of no particular orderning, neither of importance nor chronological
 
 10. []()<br>
 
+That's it for now. またね！
