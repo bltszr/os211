@@ -32,3 +32,9 @@ ZCZC W03 10 L21 Add second drive to debian guest
 ZCZC W03 47 L21 Partition disks for swap and /lfs mount
 ZCZC W03 240 L07 Reading/doing FUSE demo, including the Pfeiffer tutorial
 ZCZC W03 20 L07 Reading the (f/s/etc)printf demo
+ZCZC W03 90 L02 Thursday class
+ZCZC W03 185 L15 Write W03 top 10 list
+ZCZC W03 40 L99 Make adjustments to scripts in SandBox for automating things other than the one in myscript.sh
+ZCZC W03 10 L14 Reviewing and picking W02 picks for myrank
+ZCZC W03 5 L18 Updating and adjusting myscript.sh a bit outside of what was given, though to no avail
+ZCZC W03 3 L16 Update this log
