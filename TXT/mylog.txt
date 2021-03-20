@@ -30,3 +30,5 @@ ZCZC W02 10 L19 Write this log
 ZCZC W03 70 L05 GSGS about disk partitioning and mounting
 ZCZC W03 10 L21 Add second drive to debian guest
 ZCZC W03 47 L21 Partition disks for swap and /lfs mount
+ZCZC W03 240 L07 Reading/doing FUSE demo, including the Pfeiffer tutorial
+ZCZC W03 20 L07 Reading the (f/s/etc)printf demo
