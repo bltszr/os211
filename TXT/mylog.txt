@@ -38,3 +38,11 @@ ZCZC W03 40 L99 Make adjustments to scripts in SandBox for automating things oth
 ZCZC W03 10 L14 Reviewing and picking W02 picks for myrank
 ZCZC W03 5 L18 Updating and adjusting myscript.sh a bit outside of what was given, though to no avail
 ZCZC W03 3 L16 Update this log
+ZCZC W04 120 L11 Read OSC chapter 9
+ZCZC W04 220 L05 GSGS about W04 material + hunting for interesting links
+ZCZC W04 20 L08 Trying out W04 Demos
+ZCZC W04 90 L02 Thursday class
+ZCZC W04 40 L14 Write W04 top 10 list
+ZCZC W04 20 L13 Reviewing and picking W03 neighbours
+ZCZC W04 5 L16 Running the script for W04
+ZCZC W04 5 L15 Write this log
