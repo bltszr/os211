@@ -46,3 +46,7 @@ ZCZC W04 40 L14 Write W04 top 10 list
 ZCZC W04 20 L13 Reviewing and picking W03 neighbours
 ZCZC W04 5 L16 Running the script for W04
 ZCZC W04 5 L15 Write this log
+ZCZC W05 360 L05 GSGS about this week's material
+ZCZC W05 60 L13 Write w05.md
+ZCZC W05 20 L14 Do the demos
+ZCZC W05 3 L15 Write this log
