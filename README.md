@@ -13,3 +13,4 @@ Beltsazar Anugrah Sotardodo - 1906398351 - OS C
 [W02](https://bltszr.github.io/os211/W02)
 [W03](https://bltszr.github.io/os211/W03)
 [W04](https://bltszr.github.io/os211/W04)
+[W05](https://bltszr.github.io/os211/W05)
