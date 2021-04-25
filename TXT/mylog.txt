@@ -50,3 +50,10 @@ ZCZC W05 360 L05 GSGS about this week's material
 ZCZC W05 60 L13 Write w05.md
 ZCZC W05 20 L14 Do the demos
 ZCZC W05 3 L15 Write this log
+ZCZC W06 60 L11 Read slides for ch 03 04
+ZCZC W06 5 L12 Update myrank
+ZCZC W06 180 L13 GSGS about material and do link hunting
+ZCZC W06 20 L14 Do the fork task
+ZCZC W06 5 L15 Do this log
+ZCZC W06 5 L16 Deploy
+ZCZC W06 20 L07 Do the week's demos
