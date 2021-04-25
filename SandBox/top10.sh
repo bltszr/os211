@@ -16,4 +16,4 @@ fi
 sed "s/XX/${wnum}/" w_template.md > "../w${wnum}.md"
 # echo -e "---\npermalink: /W$wnum/\n---\n\n# Top 10 List of Week $wnum\nDisclaimer: This list is of no particular orderning, neither of importance nor chronological. It is written in the order in which I remembered them as I was writing this." > "../W$wnum.md"
 
-echo "[W$wnum](https://bltszr.github.io/os211/W$wnum)" >> "../README.md"
+echo "[W$wnum](https://bltszr.github.io/os211/W$wnum/)" >> "../README.md"
