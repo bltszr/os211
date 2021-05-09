@@ -16,3 +16,6 @@ ZCZC W05 ddelvo
 ZCZC W06 ddelvo
 ZCZC W06 Corfaitch
 ZCZC W06 csq307
+ZCZC W07 csq307
+ZCZC W07 ddelvo
+ZCZC W07 dirtboll

@@ -64,3 +64,9 @@ ZCZC W07 20 L14 Get report files
 ZCZC W07 3 L15 Write this log
 ZCZC W07 5 L12 Update myrank
 ZCZC W07 20 L11 Read ch 08 OSC
+ZCZC W08 30 L11 Read ch 05 OSC
+ZCZC W08 120 L13 Do LFS ch. 1-4
+ZCZC W08 10 L14 Do reports and md5sums
+ZCZC W08 3 L12 Update myrank
+ZCZC W08 120 L12 GSGS for material while finding interesting links
+ZCZC W08 2 L15 Write this log
