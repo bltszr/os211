@@ -70,3 +70,5 @@ ZCZC W08 10 L14 Do reports and md5sums
 ZCZC W08 3 L12 Update myrank
 ZCZC W08 120 L12 GSGS for material while finding interesting links
 ZCZC W08 2 L15 Write this log
+ZCZC W09 150 L14 Do LFS chapter 5 and fail at chapter 6
+ZCZC W09 60 L14 Read LFS chapter 5 and 6
